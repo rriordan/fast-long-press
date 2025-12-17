@@ -1,5 +1,5 @@
-id=fast-long-press-250
-name=Fast Long Press - 250
+id=fast-long-press-275
+name=Fast Long Press - 275
 description=When enabled, this module makes touch response faster by reducing long press delay
 author=rr
 version=v1.0.1
